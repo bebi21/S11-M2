@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      let promise = new Promise((resolve, reject) => {
+        // resolve("thành công!")
+        // setTimeout(() => {}, timeout);
+      });
+      promise
+        .then((res1) => {
+          return new Promise((hieu, cudon) => {
+            setTimeout(() => {
+              hieu(5);
+            }, 3000);
+          });
+        })
+        .then((res2) => {
+          console.log("22222");
+          return console.log("res2", res2);
+        })
+        .catch((err) => console.log("1111", err));
+    </script>
+  </body>
+</html>

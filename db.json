@@ -1,0 +1,87 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "loc",
+      "title": "meme"
+    },
+    {
+      "name": "Hello World!",
+      "title": "This is a new post.",
+      "id": 3
+    },
+    {
+      "name": "Hello World!",
+      "title": "This is a new post.",
+      "id": 4
+    },
+    {
+      "name": "Hello World!",
+      "title": "This is a new post.",
+      "id": 5
+    },
+    {
+      "name": "Hello World!",
+      "title": "This is a new post.",
+      "id": 6
+    }
+  ],
+  "students": [
+    {
+      "id": 2,
+      "Name": "meo",
+      "Age": 29,
+      "Salary": 5000
+    },
+    {
+      "id": 1,
+      "Name": "meo1",
+      "Age": 25,
+      "Salary": 1000
+    },
+    {
+      "id": 5,
+      "Name": "meo3",
+      "Age": 2,
+      "Salary": 7000
+    }
+  ],
+  "user1": [
+    {
+      "id": 2,
+      "name": "meo4a",
+      "address": "ha nam",
+      "date": "01 May 2041"
+    },
+    {
+      "name": "khbkb",
+      "address": "bhb",
+      "date": "0765-06-07",
+      "id": 5
+    },
+    {
+      "name": "qweqe",
+      "address": "qweqwe",
+      "date": "12312-03-12",
+      "id": 10
+    },
+    {
+      "name": "qwe",
+      "address": "qweqwe",
+      "date": "123123-03-12",
+      "id": 11
+    },
+    {
+      "name": "qwe",
+      "address": "qwe",
+      "date": "3123-03-12",
+      "id": 12
+    },
+    {
+      "name": "sada",
+      "address": "asd",
+      "date": "23213-03-12",
+      "id": 13
+    }
+  ]
+}
